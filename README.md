@@ -18,7 +18,8 @@ __Otro texto en itálica__
 *** Otro texto en itálica***
 ## Citas textuales
 ## Hipervínculos
-[sitio web de la Univerdidad Nacional (UNA)] (https://www.una.ac.cr/)
+[Sitio web de la Universidad Nacional (UNA)] (https://www.una.ac.cr/)
+
 
  #
  #  Imágenes 

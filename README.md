@@ -13,7 +13,8 @@ _Otro texto en itálica_
 
 
 ## Negritas
-*Texto en itálica**
+*Texto en itálica*
+*** Otro texto en itálica***
 ## Citas textuales
 ## Hipervínculos
 ##  Imágenes 

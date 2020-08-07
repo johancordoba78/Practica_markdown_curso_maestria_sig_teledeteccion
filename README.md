@@ -20,7 +20,6 @@ __Otro texto en itálica__
 ## Hipervínculos
 [Sitio web de la Universidad Nacional (UNA)] (https://www.una.ac.cr/)
 
-
  #
  #  Imágenes 
 ## Listas

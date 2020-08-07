@@ -13,7 +13,8 @@
 __Otro  texto en itálica__
 
 ## Negritas
-* Texto en negrita**
+
+**Otro texto en negrita**
 \
 __Otro texto en negrita__
 
